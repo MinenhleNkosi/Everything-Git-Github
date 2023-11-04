@@ -1,8 +1,8 @@
-# A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+# Welcome my fellow coders, let's embark of a quest to know about the mysterious GIT!!
 
-**Input:**
-   **p**, principal amount
-  **t**, time period in years
-   **r**, annual rate of interest
-**Output:**
-   simple interest = p*t*r
+## Learning Objective:
+* Learn about version control
+* Understand Distributed version control systems
+* Create new git projects
+* Make and track code changes by using Git
+* Use Git to recover from mistakes
